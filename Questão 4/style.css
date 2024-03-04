@@ -1,0 +1,20 @@
+.container {
+    background-image: url(https://th.bing.com/th/id/OIG1.iQTzdkjkm.WK20yyQN1K?w=1024&h=1024&rs=1&pid=ImgDetMain);
+    background-size: cover;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.white-box {
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.black-box {
+    background-color: black;
+    border: 1px solid black;
+    padding: 10px;
+    color: white;
+ 
+}

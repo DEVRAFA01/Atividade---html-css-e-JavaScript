@@ -1,0 +1,25 @@
+
+
+.caixa-imagem, .caixa-texto {
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.caixa-imagem {
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+    background-image: url(https://th.bing.com/th/id/OIP.fUwAEPna4jd2kr0rqF9sLwHaEr?rs=1&pid=ImgDetMain);
+    background-size: cover;
+}
+
+.caixa-texto {
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    }
+
+
+
+
